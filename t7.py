@@ -1,6 +1,6 @@
 from turtle import *
 side = 12
-bgcolor('black')
+bgcolor('yellow')
 for i in range (side):
     pencolor('black')
     fd(50)

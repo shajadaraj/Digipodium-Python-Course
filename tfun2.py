@@ -1,5 +1,5 @@
 from turtle import *
-
+speed(f'fastest')
 
 def polygon(side, dis):
     for i in range(side):
